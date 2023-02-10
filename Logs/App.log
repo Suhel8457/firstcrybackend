@@ -1,0 +1,19 @@
+2023-02-10 11:34:38.037  INFO 13636 --- [restartedMain] com.galaxe.FirsrtCryApplication          : Starting FirsrtCryApplication using Java 11.0.15 on GBLNB-PG033XDR with PID 13636 (C:\Users\sushaik\eclipse-workspace\FirsrtCry\target\classes started by sushaik in C:\Users\sushaik\eclipse-workspace\FirsrtCry)
+2023-02-10 11:34:38.048 DEBUG 13636 --- [restartedMain] com.galaxe.FirsrtCryApplication          : Running with Spring Boot v2.7.7, Spring v5.3.24
+2023-02-10 11:34:38.050  INFO 13636 --- [restartedMain] com.galaxe.FirsrtCryApplication          : No active profile set, falling back to 1 default profile: "default"
+2023-02-10 11:34:38.127  INFO 13636 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-02-10 11:34:38.127  INFO 13636 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-02-10 11:34:38.957  INFO 13636 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-02-10 11:34:39.047  INFO 13636 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 78 ms. Found 3 JPA repository interfaces.
+2023-02-10 11:34:40.215  INFO 13636 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9679 (http)
+2023-02-10 11:34:40.231  INFO 13636 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-02-10 11:34:40.233  INFO 13636 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.70]
+2023-02-10 11:34:40.461  INFO 13636 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-02-10 11:34:40.462  INFO 13636 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2334 ms
+2023-02-10 11:34:41.236  INFO 13636 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-02-10 11:34:41.576  INFO 13636 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-02-10 11:34:42.851  INFO 13636 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-02-10 11:34:43.737  WARN 13636 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-10 11:34:45.101  INFO 13636 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-02-10 11:34:45.173  INFO 13636 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9679 (http) with context path ''
+2023-02-10 11:34:45.193  INFO 13636 --- [restartedMain] com.galaxe.FirsrtCryApplication          : Started FirsrtCryApplication in 7.838 seconds (JVM running for 10.197)
